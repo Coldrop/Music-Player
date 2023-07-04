@@ -1,0 +1,41 @@
+4
+Endless Summer
+The Midnight
+images/ES.jpg
+4
+Sunset
+musics/The_Midnight_Sunset.mp3
+Endless Summer
+musics/ES.mp3
+Gloria
+musics/Gloria.mp3
+Los Angeles
+musics/LosA.mp3
+Twelve Four
+The Paper Kites
+images/Twelvefour.jpg
+3
+Revelator Eyes
+musics/tpk1.mp3
+Electric Indigo
+musics/tpk2.mp3
+Too Late
+musics/tpk3.mp3
+Nocturnal
+The Midnight
+images/Nocturnal.jpg
+2
+Shadows
+musics/Shadows.mp3
+Collateral
+musics/Collateral.mp3
+Atlas
+FM-84
+images/Atlas.jpg
+3
+Running in the night
+musics/FM1.mp3
+Tears
+musics/FM2.mp3
+Goodbye
+musics/FM3.mp3
